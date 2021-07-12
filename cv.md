@@ -17,10 +17,10 @@ My short-term plan is to become front-end developer. But in long-term, I conside
 
 #### Skills:
 
-*HTML/CSS – Intermediate level
-*JavaScript – Intermediate level
-*Algorithm and OOP – Intermediate level
-*Git/Github – Intermediate level
+* HTML/CSS – Intermediate level
+* JavaScript – Intermediate level
+* Algorithm and OOP – Intermediate level
+* Git/Github – Intermediate level
 
 #### Code example:
 
