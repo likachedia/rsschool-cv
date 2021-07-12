@@ -6,8 +6,9 @@ Lili Tchedia
 
 #### Contact info:
 
-likachedia@gmail.com
-+995598488894
+**E-mail:** likachedia@gmail.com
+
+**Phone number:** +995598488894
 
 #### Summary:
 
